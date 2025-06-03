@@ -5,7 +5,7 @@ Configure and test basic firewall rules to allow or block traffic using UFW (Unc
 
 ---
 
-## ⚙️ Steps Followed:
+## Steps Followed:
 
 ### 1. Enabled UFW:
  ufw enable
