@@ -1,6 +1,6 @@
-# 🔐 Task 4: Setup and Use a Firewall on Linux (UFW)
+#  Task 4: Setup and Use a Firewall on Linux (UFW)
 
-## 🎯 Objective:
+## Objective:
 Configure and test basic firewall rules to allow or block traffic using UFW (Uncomplicated Firewall) on Linux.
 
 ---
